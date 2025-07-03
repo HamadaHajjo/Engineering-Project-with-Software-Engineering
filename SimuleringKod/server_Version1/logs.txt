@@ -1,0 +1,8 @@
+Server started on port 1234
+Received: CREATE_FIREMAN Node A
+Brandman skapad för nod: Node
+Received: CREATE_FIREMAN Node A
+Brandman skapad för nod: Node
+Server started on port 1234
+Received: CREATE_FIREMAN Node A
+Brandman skapad för nod: Node
